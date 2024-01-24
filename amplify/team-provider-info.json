@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-apple-dev-231039-authRole",
+      "UnauthRoleArn": "arn:aws:iam::851725408542:role/amplify-apple-dev-231039-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::851725408542:role/amplify-apple-dev-231039-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-apple-dev-231039-deployment",
+      "UnauthRoleName": "amplify-apple-dev-231039-unauthRole",
+      "StackName": "amplify-apple-dev-231039",
+      "StackId": "arn:aws:cloudformation:us-east-1:851725408542:stack/amplify-apple-dev-231039/8781c660-ba16-11ee-a056-0a59192fc281",
+      "AmplifyAppId": "d2fesfvfrm8r3d"
+    },
+    "categories": {
+      "auth": {
+        "appleda203fd8": {}
+      }
+    }
+  }
+}
